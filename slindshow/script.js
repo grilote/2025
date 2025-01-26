@@ -1,6 +1,6 @@
 /**
  * Slide show
- * @author  Luiz Fernando
+ * @author  Luiz Fernando.
  */
 
 //array(vetor) de imagens

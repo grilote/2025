@@ -10,4 +10,4 @@ function carrossel (){
     //indice 0: posição inicial | 1: deslocar 512px esq | 2: deslocar 1024px para a esq 
     imgs.style.transform = `translateX(${-indice * 512}px)`
 }
-setInterval(carrossel, 1800) // Ajuste
+setInterval(carrossel, 1800) // Ajuste.

@@ -1,5 +1,5 @@
 /**data automática no rodapé
- * @author Luiz fernando
+ * @author Luiz fernando.
  */
 
 function obterData(){

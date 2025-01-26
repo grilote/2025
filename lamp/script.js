@@ -1,6 +1,6 @@
 /**
  * Eventos de intervalo 21/01
- * @author Luiz Fernando
+ * @author Luiz Fernando.
  */
 
 function piscar() {

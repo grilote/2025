@@ -1,6 +1,6 @@
 /**
  * Ano automático
- * @author Luiz Fernando
+ * @author Luiz Fernando.
  */
 //inserindo o ano na tag <span>
 let ano = document.getElementById('copyrightYear')
